@@ -4,11 +4,11 @@
 
 # Convert
 
-## descrição
+## description
 
 Convert é um app onde podemos fazer a conversão de moedas (USD, EUR e GDP) para reais.
 
-## tecnologias
+## techlogies
 
 * HTML 
 * CSS 
