@@ -6,9 +6,9 @@
 
 ## description
 
-Convert é um app onde podemos fazer a conversão de moedas (USD, EUR e GDP) para reais.
+Convert is an app that allows you to convert currencies (USD, EUR, and GDP) to BRL
 
-## techlogies
+## technologies
 
 * HTML 
 * CSS 
